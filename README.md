@@ -43,7 +43,7 @@ The directory `markup` contains annotation for each frame in JSON format. Annota
 
 #### Installation:
 
-The dataset can be downloaded from the link: [ftp://smartengines.com/midv-holo](ftp://smartengines.com/midv-holo)
+The dataset can be downloaded from ftp using the following address: [ftp://smartengines.com/midv-holo](ftp://smartengines.com/midv-holo)
 
 #### License:
 
