@@ -61,4 +61,18 @@ The images of faces were obtained using Generated Photos (https://generated.phot
  - Dmitry Nikolaev
  - Vladimir V. Arlazarov
 
+#### Citing work 
+If you end up using midv-holo dataset or results in your research, please consider citing:
+``` bash
+@inproceedings{koliaskina2023midv,
+  title={MIDV-Holo: A Dataset for ID Document Hologram Detection in a Video Stream},
+  author={Koliaskina, LI and Emelianova, EV and Tropin, DV and Popov, VV and Bulatov, KB and Nikolaev, DP and Arlazarov, VV},
+  booktitle={International Conference on Document Analysis and Recognition},
+  pages={486--503},
+  year={2023},
+  organization={Springer},
+  doi={https://doi.org/10.1007/978-3-031-41682-8_30}
+}
+```
+
 For any questions or suggestions, please don't hesitate to contact Leisan Koliaskina (l.gabdrakhmanova@smartengines.com) or Konstantin Bulatov (kbulatov@smartengines.com)
