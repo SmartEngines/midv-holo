@@ -61,7 +61,7 @@ The images of faces were obtained using Generated Photos (https://generated.phot
  - Dmitry Nikolaev
  - Vladimir V. Arlazarov
 
-#### Citing work 
+#### Citing work: 
 If you end up using midv-holo dataset or results in your research, please consider citing:
 ``` bash
 @inproceedings{koliaskina2023midv,
