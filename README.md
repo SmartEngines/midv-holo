@@ -39,7 +39,7 @@ The hologram masks (Binary images that represent location of holographic pattern
 
 The directory `markup` contains annotation for each frame in JSON format. Annotation includes manually selected document boundary quadrangle and the unique identifier of a document type. 
 
-<img src="./dataset.png"  width="600" height="831">
+<img src="./dataset_structure.png"  width="600" height="831">
 
 #### Installation:
 
